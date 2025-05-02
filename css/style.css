@@ -1,0 +1,45 @@
+h1 {
+    color:antiquewhite;
+    background-color:red;
+    text-align: center;
+}
+ p {
+    color: aquamarine;
+    background-color: blueviolet;
+}
+#tore{
+    color : azure;
+    background-color: black;
+}
+.Warnasatu{
+    color: aquamarine;
+    background-color: black;
+}
+.Warnadua{
+    color: beige;
+    background-color: brown;
+}
+.Warnatiga{
+    color: aliceblue;
+    background-color: green;
+}
+#kotak_satu{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    margin-bottom: 20px;
+
+}
+#kotak_dua{
+    height: 100px;
+    width: 500px;
+    background-color: maroon;
+    margin-bottom: 10px;
+
+}
+#kotak_tiga{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    border-radius: 50%;
+}
